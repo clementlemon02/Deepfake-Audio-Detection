@@ -29,3 +29,5 @@ The project evaluates the models using:
 - **EER (Equal Error Rate)**: Indicates the point where the false acceptance rate equals the false rejection rate.
 
 
+### Dataset Used
+In The Wild Dataset: https://deepfake-total.com/in_the_wild
